@@ -31,7 +31,7 @@ public class CalculatorImplTest {
             " 3,  4,  7",
             "-2,  2,  0",
             "-8,  3, -5",
-            "-4,  6,  2",
+            "-4,  6,  3",
             "-2, -2, -4"
     })
     @DisplayName("Testing addition")
